@@ -1,0 +1,7 @@
+{
+  "name": "foodsta",
+  "integrations": {
+    "cordova": {}
+  },
+  "type": "ionic-angular"
+}
